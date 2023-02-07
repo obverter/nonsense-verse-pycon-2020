@@ -1,6 +1,6 @@
 jupyter==1.0.0
 Keras==2.3.1
-nltk==3.5
+nltk==3.6.6
 notebook==6.0.3
 numpy==1.18.4
 pincelate==0.0.1
